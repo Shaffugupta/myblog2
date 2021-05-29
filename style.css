@@ -1,0 +1,62 @@
+#image{
+    margin-top: 50px;
+  height:300px;
+  width:250px;
+  border-radius:70%;
+  display:block;
+  margin-left:550px;
+  margin-right:auto;
+}
+body{
+  background:linear-gradient(#22c1c3 8%,#fdbb2d 100%);
+  background-repeat:no-repeat;
+}
+h2{
+  font-size:48px;
+  text-shadow: 2px 2px #795548;
+  text-align:center;
+}
+h1{
+  text-align:center;
+  padding-top:20px;
+  font-size: 36px;
+}
+#divide{
+  height:6px;
+  background-color:#212121;
+  margin:8px auto;
+  width:70px;
+  
+}
+#intro{
+  text-align:center;
+  font-size:28px;
+}
+.bio{
+  text-align:center;
+  padding-top:20px;
+}
+#detail{
+  text-align:centre;
+  font-size:18px;
+}
+.menu{
+    list-style-type: none;
+    right:30px;
+    cursor: pointer;
+    color:black;
+    z-index: 10;
+    margin-right: 10;
+}
+.link{
+ float:right; 
+    margin-left: 20px;
+    font-size: 24px;
+}
+.link:hover{
+    background-color: cornflowerblue;
+    
+}
+#hobby{
+    font-family: "Dancing Script";
+}
